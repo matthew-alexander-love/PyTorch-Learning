@@ -5,7 +5,7 @@ https://www.learnpytorch.io/ with the intention
 of becoming familiar with the PyTorch library.
 
 These notebooks have not been formaly curated and are just 
-notes to look back upon as I embark on larger project.
+notes to look back upon as I embark on larger projects.
 
 This includes sections on the following and there relationship
 with the PyTorch Library:
